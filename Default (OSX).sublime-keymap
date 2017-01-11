@@ -1,0 +1,6 @@
+[
+	{ "keys": ["super+v"], "command": "paste_and_indent" },
+	{ "keys": ["super+shift+v"], "command": "paste" },
+  { "keys": ["super+shift+r"], "command": "reindent" },
+  { "keys": ["super+;"], "command": "run_macro", "args": {"file":"function-semicolon"} }
+]

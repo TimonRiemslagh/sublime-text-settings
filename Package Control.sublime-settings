@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Babel",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorSchemeSelector",
+		"CSS3",
+		"Emmet",
+		"ESLint",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"JSHint Gutter",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeServer",
+		"Terminal",
+		"Theme - Cobalt2"
+	]
+}
